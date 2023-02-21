@@ -1,0 +1,7 @@
+ file in python
+ we have got open() method to open the file form the text file
+ to read we have got read()
+ after opening the file we need to close the file
+ once opened it allocates the memory for the file
+ with the function close() we can close the file and cannot edit there
+ 
